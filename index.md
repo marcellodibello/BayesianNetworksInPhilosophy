@@ -1,1 +1,35 @@
-Ha
+# Course ideas (14 meetings total)
+
+First part would  be a general introduction:
+
+1. Basics of probability theory 
+2. Conditional probability and Bayes's theorem
+3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
+4. Bayesian networks (practice): review case studies
+
+Second part would have speakeras on various topics:
+
+5. Bayesian networks (evidence): court cases
+6. Lagnado, Fenton, Biedermann, Verheij, etc.
+
+7. Coherence
+8. Rafal?
+
+9. Causality
+- [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
+- Judeal Pearl's works: [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html), [The book of why](http://bayes.cs.ucla.edu/WHY/) , [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
+
+10. [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
+  - other topics: disagreement
+
+11. Fairness - [causality background](https://fairmlbook.org/causal.html)
+ 12. Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
+
+13. Discussion of some work by Hartman - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
+14. S. Hartman, Bayesian networks in philosophy of science, 
+  - possible topics: [theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
+  - other [topics](http://www.stephanhartmann.org/publications/): judgement aggregation, deliberation, truth, democracy
+
+
+  
+
