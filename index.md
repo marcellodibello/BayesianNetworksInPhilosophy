@@ -37,6 +37,9 @@ First part would  be a general introduction:
     - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
     - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
     
+ 4. Random Variables 
+    - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
+    
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
 
