@@ -35,6 +35,7 @@ First part would  be a general introduction:
     - [Independence of a Collection of Events](https://www.youtube.com/watch?v=UbQcqFH33G0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=36)
     - [Independence Versus Pairwise Independence](https://www.youtube.com/watch?v=aJXfyfQs2Mc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=37)
     - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
+    - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
     
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
