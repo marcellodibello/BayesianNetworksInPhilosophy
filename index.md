@@ -32,6 +32,8 @@ First part would  be a general introduction:
     - [Independence of Event Complements](https://www.youtube.com/watch?v=JZkT3NU2mPM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=33)
     - [Conditional Independence](https://www.youtube.com/watch?v=7B3cDe39lwY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=34)
     - [Independence Versus Conditional Independence](https://www.youtube.com/watch?v=TAyA-rjmesQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=35)
+    - [Independence of a Collection of Events](https://www.youtube.com/watch?v=UbQcqFH33G0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=36)
+    - []()
     
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
