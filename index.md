@@ -9,7 +9,15 @@ First part would  be a general introduction:
     - [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
     - [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
     - [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
+    - [A Continuous Example](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
+    - [Countable Additivity](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
+    - [Interpretations & Uses of Probabilities](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
+        - Mathemathical background:
+             - [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
+             - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
+             - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
 2. Conditional probability and Bayes's theorem
+    - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
 
