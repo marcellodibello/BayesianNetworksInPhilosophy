@@ -16,10 +16,13 @@ First part would  be a general introduction:
              - [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
              - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
              - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
+            
 2. Conditional probability and Bayes's theorem
     - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
     - [A Die Roll Example](https://www.youtube.com/watch?v=YenDB3yOfDc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=24)
     - [Conditional Probabilities Obey the Same Axioms](https://www.youtube.com/watch?v=L_pEeYLGaP0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=25)
+    - [A Radar Example and Three Basic Tools](https://www.youtube.com/watch?v=uL31gpFdarc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=26)
+    - [The Multiplication Rule](https://www.youtube.com/watch?v=ugzs7dgQ-JE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=27)
     
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
