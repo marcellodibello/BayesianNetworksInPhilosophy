@@ -2,6 +2,8 @@
 
 First part would  be a general introduction:
 
+$e^{i \pi} = -1$
+
 ## Probability theory  
     
  1. Sample space and probability axioms (videos belows available [here]() thanks to MIT OpenCourseWare)
