@@ -2,7 +2,9 @@
 
 First part would  be a general introduction:
 
-1. Basics of probability theory  (videos belows available [here]() thanks to MIT OpenCourseWare)
+## Probability theory  
+    
+ 1. Sample space and probability axioms (videos belows available [here]() thanks to MIT OpenCourseWare)
     - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
     - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
     - [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
@@ -39,7 +41,19 @@ First part would  be a general introduction:
     
  4. Random Variables 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
-    
+    - [Probability Mass Functions](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
+
+## Bayesian Networks
+
+  5.  Basic idea
+     - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
+     - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
+     
+   6. Software
+       - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
+       - [Bayesia](https://www.bayesia.com/)
+       - [AgenaRisk](https://www.agenarisk.com/)
+
 3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
 4. Bayesian networks (practice): review case studies
 
