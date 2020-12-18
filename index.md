@@ -46,6 +46,8 @@ First part would  be a general introduction:
     - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
     - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
     
+    Missing items: **marginalization**, **chain rule**
+    
  4. Random Variables 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
     - [Probability Mass Functions](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
@@ -58,8 +60,9 @@ First part would  be a general introduction:
         - [Bayesian networks by Richard Neapolitan](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
         
    6. More in depth
-        - [Bayesian Network]
-             - A crisp introdcution to Bayesian network by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Insitute of Technology. The key message here is that Bayesian networks are compact represntataion of joint probability distributions. Bayesian networks consist of (a) a graphical part (called Directed Acyclic Graph or DAG) and probability assignments (called Conditional Probability Tables or CPTs). 
+        - [Naive Bayes]
+        - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
+             - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology. The key message here is that Bayesian networks are compact representations of joint probability distributions. Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs). The video also touches upon applications, e.g, diagnosis in medical setting.  
                 
         - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
              - Friendly yet precise introduction to neural networks (as opposed to Bayesian networks) 
