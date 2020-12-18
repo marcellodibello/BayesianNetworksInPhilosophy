@@ -57,13 +57,15 @@ First part would  be a general introduction:
   5. Basic idea
         - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
         - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
-        - [Bayesian networks by Richard Neapolitan](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-        
+                
    6. More in depth
         - [Naive Bayes]
+        - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
+            - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en)
         - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
              - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology. The key message here is that Bayesian networks are compact representations of joint probability distributions. Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs). The video also touches upon applications, e.g, diagnosis in medical setting.  
-                
+         - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
+              - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
         - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
              - Friendly yet precise introduction to neural networks (as opposed to Bayesian networks) 
      
