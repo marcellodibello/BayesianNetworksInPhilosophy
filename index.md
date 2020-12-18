@@ -52,11 +52,17 @@ First part would  be a general introduction:
 
 ## Bayesian Networks
 
-  5.  Basic idea
-     - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
-     - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
-     - [Bayesian networks by Richard Neapolitan](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-     - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+  5. Basic idea
+        - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
+        - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
+        - [Bayesian networks by Richard Neapolitan](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
+        
+   6. More in depth
+        - [Bayesian Network]
+             - A crisp introdcution to Bayesian network by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Insitute of Technology. The key message here is that Bayesian networks are compact represntataion of joint probability distributions. Bayesian networks consist of (a) a graphical part (called Directed Acyclic Graph or DAG) and probability assignments (called Conditional Probability Tables or CPTs). 
+                
+        - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+             - Friendly yet precise introduction to neural networks (as opposed to Bayesian networks) 
      
    6. Software
        - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
