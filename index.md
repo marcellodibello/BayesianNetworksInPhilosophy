@@ -112,16 +112,17 @@
         - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
 ## Evidence Law 
+
    - Bayesian networks (evidence): court cases
    - Fenton, Biedermann, Lagnado, Vlek
    
 ## Causality
-    
+
    - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
-    - Judeal Pearl's works: 
-       - [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html)
-       - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
-       - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
+   - Judeal Pearl's works: 
+        - [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+        - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
+        - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
   - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
 
 ## Fairness
