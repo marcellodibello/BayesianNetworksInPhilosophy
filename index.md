@@ -2,7 +2,7 @@
 
 ## Probability refresher
     
- 1. Sample space and probability axioms (videos belows available [here]() thanks to MIT OpenCourseWare)
+ 1. Sample space and probability axioms (videos by []() from MIT via MIT OpenCourseWare)
     - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
         -  Sample space, random experiments, events
     - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
@@ -31,7 +31,9 @@
         - [First tool:The Multiplication Rule](https://www.youtube.com/watch?v=ugzs7dgQ-JE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=27)
         - [Seciond tool: Total Probability Theorem](https://www.youtube.com/watch?v=8odFouBR2wE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=28)
         - [Third tool: Bayes' Rule](https://www.youtube.com/watch?v=kz2tvO_ZAKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=29)
-        - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
+      - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
+        -  Video above are by [Ben Lambert](https://ben-lambert.com/) from Imperial College London 
+      - [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
 
 3. Independence
     - [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
