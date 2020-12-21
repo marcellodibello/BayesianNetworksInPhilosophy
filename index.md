@@ -22,6 +22,7 @@
                     Set operations, intersectionl, union, complementation
          - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
          - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
+     - **Summary of key definitions in Chapter 1, sections 1.1 and 1.2 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
             
 2. Conditional probability and Bayes's rule
      - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
@@ -36,7 +37,7 @@
       - [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8&t=228s)
         - Interesting examples of applications of Bayes' thorem by [Julia Galef](https://en.wikipedia.org/wiki/Julia_Galef), co-founder of the [Center for Applied Rationality](https://rationality.org/)
       - [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
-       
+      - **Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
 
 3. Independence
     - [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
@@ -48,6 +49,7 @@
     - [Independence Versus Pairwise Independence](https://www.youtube.com/watch?v=aJXfyfQs2Mc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=37)
     - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
     - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
+    - **Summary of key definitions in Chapter 1, section 1.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
     
 4. Other important concepts 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
@@ -61,6 +63,7 @@
     - [Conditional probability and chain rule](https://www.youtube.com/watch?v=B020i4yW1tc)
     - [Expectation](https://www.youtube.com/watch?v=GARQ31BrKQA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=57)
     - [Joint PMFs](https://www.youtube.com/watch?v=7nu97OYx4X4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=67)
+    - - **Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
     
 
 ## Bayesian Networks
