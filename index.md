@@ -86,6 +86,7 @@
   - Related topics      
       - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+           - Note that a naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
       - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - Introduction to neural networks (as opposed to Bayesian networks) 
