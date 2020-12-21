@@ -116,7 +116,8 @@
    - Fenton, Biedermann, Lagnado, Vlek
    
 ## Causality
-    - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
+    
+   - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
     - Judeal Pearl's works: 
        - [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html)
        - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
