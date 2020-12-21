@@ -1,5 +1,8 @@
 # Bayesian Networks in Philosophy (14 meetings)
 
+* TOC
+{:toc}
+
 ## Probability refresher
     
  - Sample space and probability axioms (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT via MIT OpenCourseWare)
