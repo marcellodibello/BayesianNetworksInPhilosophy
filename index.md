@@ -111,8 +111,14 @@
         - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
         - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
+## Epistemology and evidence assessment
+   
+   - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
+   - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
+ 
 ## Evidence Law 
 
+   
    - Bayesian networks (evidence): court cases
    - Fenton, Biedermann, Lagnado, Vlek
    
