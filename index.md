@@ -4,25 +4,24 @@
     
  1. Sample space and probability axioms (videos belows available [here]() thanks to MIT OpenCourseWare)
     - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
+        -  Sample space, random experiments, events
     - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
     - [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
          - Three probability axioms
-            
     - [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
          - Lemmas of theorems that ca be derived from the axioms
-            
-    - [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
+     - [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
          - More lemmans ot theorems that can be derived from the axioms
-           
-    - [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
+     - [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
     - [A Continuous Example](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
     - [Countable Additivity](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
     - [Interpretations & Uses of Probabilities](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
-        - Mathemathical background:
-             - [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
+         - Frequentist vs. subjective (betting) interpretation of probability
+    - Mathemathical background:
+         - [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
                     Set operations, intersectionl, union, complementation
-             - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
-             - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
+         - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
+         - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
             
 2. Conditional probability and Bayes's rule
      - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
