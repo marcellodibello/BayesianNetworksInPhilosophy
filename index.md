@@ -116,6 +116,10 @@
    - Bayesian networks (evidence): court cases
    - Fenton, Biedermann, Lagnado, Vlek
    
+## Coherence
+   
+   - Rafal?
+
 ## Causality
 
    - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
@@ -126,27 +130,17 @@
   - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
 
 ## Fairness
+
    - [causality background](https://fairmlbook.org/causal.html)
    - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
-## Coherence
-   - Rafal?
+## Voting, judgment aggregation
 
+   - Luc Bovens
+    
+## Philosophy of science 
 
-
-
-
-
-
-
-10. 
-  - other topics: disagreement
-
-13. Discussion of some work by Hartman - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
-14. S. Hartman, Bayesian networks in philosophy of science, 
-  - possible topics: [theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
-  - other [topics](http://www.stephanhartmann.org/publications/): judgement aggregation, deliberation, truth, democracy
-
-
-  
-
+   - Discussion of some work by Stephan Hartman 
+        - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
+        - [theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
+        - other [topics](http://www.stephanhartmann.org/publications/): judgement aggregation, deliberation, truth, democracy
