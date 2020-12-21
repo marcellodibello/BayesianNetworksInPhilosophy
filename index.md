@@ -104,7 +104,13 @@
        - [AgenaRisk](https://www.agenarisk.com/)
        - [BayesianFusion](https://www.bayesfusion.com/)
 
-3. Bayesian networks (theory): DAG, Markov condition - (Scutari's slides)[] 
+   - Benchmark examples of Bayesian networks
+        - [Small](https://www.bnlearn.com/bnrepository/discrete-small.html) (less than 20 nodes)
+        - [Medium](https://www.bnlearn.com/bnrepository/discrete-medium.html) (20-50 nodes)
+        - [Large](https://www.bnlearn.com/bnrepository/discrete-large.html)(50-100 nodes) 
+        - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
+        - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
+    
 4. Bayesian networks (practice): review case studies
 
 Second part would have speakeras on various topics:
