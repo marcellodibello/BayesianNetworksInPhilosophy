@@ -32,9 +32,9 @@
         - [First tool:The Multiplication Rule](https://www.youtube.com/watch?v=ugzs7dgQ-JE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=27)
         - [Seciond tool: Total Probability Theorem](https://www.youtube.com/watch?v=8odFouBR2wE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=28)
         - [Third tool: Bayes' Rule](https://www.youtube.com/watch?v=kz2tvO_ZAKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=29)
-      - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
+    - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
         -  Video above is by [Ben Lambert](https://ben-lambert.com/) from Imperial College London 
-      - [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8&t=228s)
+    - [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8&t=228s)
         - Interesting examples of applications of Bayes' thorem by [Julia Galef](https://en.wikipedia.org/wiki/Julia_Galef), co-founder of the [Center for Applied Rationality](https://rationality.org/)
      - [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
      - **Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
