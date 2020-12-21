@@ -84,7 +84,8 @@
         - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
               
   - Related topics      
-      - [Naive Bayes]
+      - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+           - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
       - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Introduction to neural networks (as opposed to Bayesian networks) 
      
