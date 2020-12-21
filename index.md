@@ -75,18 +75,18 @@
            - The key message here is that Bayesian networks are compact representations of joint probability distributions 
            - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
- - More in depth
-       - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-          - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
-        - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
-            - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology  
-         - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
-            - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
+ - More in depth (different introductins to Bayesian networks)
+     - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
+         - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
+     - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
+        - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology  
+     - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
+        - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
               
   - Related topics      
-        - [Naive Bayes]
-        - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
-             - Introduction to neural networks (as opposed to Bayesian networks) 
+      - [Naive Bayes]
+      - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+           - Introduction to neural networks (as opposed to Bayesian networks) 
      
   - Bayesian network software
        - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
