@@ -2,7 +2,7 @@
 
 ## Probability refresher
     
- 1. Sample space and probability axioms (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT via MIT OpenCourseWare)
+ - Sample space and probability axioms (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT via MIT OpenCourseWare)
     - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
         -  Sample space, random experiments, events
     - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
@@ -24,7 +24,7 @@
          - [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
      - **Summary of key definitions in Chapter 1, sections 1.1 and 1.2 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
             
-2. Conditional probability and Bayes's rule
+- Conditional probability and Bayes's rule
      - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
      - [A Die Roll Example](https://www.youtube.com/watch?v=YenDB3yOfDc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=24)
      - [Conditional Probabilities Obey the Same Axioms](https://www.youtube.com/watch?v=L_pEeYLGaP0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=25)
@@ -39,7 +39,7 @@
       - [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
       - **Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
 
-3. Independence
+- Independence
     - [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
     - [Independence of Two Events](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
     - [Independence of Event Complements](https://www.youtube.com/watch?v=JZkT3NU2mPM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=33)
@@ -51,7 +51,7 @@
     - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
     - **Summary of key definitions in Chapter 1, section 1.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
     
-4. Other important concepts 
+- Other important concepts 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
     - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
     - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
@@ -68,14 +68,14 @@
 
 ## Bayesian Networks
 
- 5. Basic idea
+ - Basic idea
       - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
       - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
            - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
            - The key message here is that Bayesian networks are compact representations of joint probability distributions 
            - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
- 6. More in depth
+ - More in depth
        - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
           - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
         - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
@@ -83,12 +83,12 @@
          - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
             - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
               
-  7. Related topics      
+  - Related topics      
         - [Naive Bayes]
         - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
              - Introduction to neural networks (as opposed to Bayesian networks) 
      
-  8. Bayesian network software
+  - Bayesian network software
        - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
        - [Bayesia](https://www.bayesia.com/)
        - [AgenaRisk](https://www.agenarisk.com/)
