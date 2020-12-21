@@ -85,7 +85,10 @@
          - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
      - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
         - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
-              
+     - [Bayesian Network](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) by [Pedro Domingos](https://twitter.com/pmddomingos) from the university of Washington   
+     - Bayesian Networks ((part 1)[https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf] and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
+     
+     
   - Related topics      
       - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
