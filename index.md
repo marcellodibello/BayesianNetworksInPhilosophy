@@ -43,36 +43,37 @@
     - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
     - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
     
-    Missing items: **marginalization**, **chain rule**
-    
- 4. Other important concepts 
+4. Other important concepts 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
     - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
     - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
         - Probability mass function (PMF) vs. probability density function (PDF)
     - [Marginal probability](https://www.youtube.com/watch?v=r27mouuyFQk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=6)
         - Joint probability vs. marginal probability, examples and general formulas 
+    - [Conditional probability and chain rule](https://www.youtube.com/watch?v=B020i4yW1tc)
     
 
 ## Bayesian Networks
 
-  5. Basic idea
+ 5. Basic idea
         - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
         - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
-          The key message here is that Bayesian networks are compact representations of joint probability distributions. Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
+              - The key message here is that Bayesian networks are compact representations of joint probability distributions. Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
-   6. More in depth
-        - [Naive Bayes]
-        - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-            Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en)
+ 6. More in depth
+       - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
+          - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
         - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
-             - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology. The video also touches upon applications, e.g, diagnosis in medical setting.  
+            - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology  
          - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
-              - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
+            - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
+              
+  7. Related topics      
+        - [Naive Bayes]
         - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
-             - Friendly yet precise introduction to neural networks (as opposed to Bayesian networks) 
+             - Introduction to neural networks (as opposed to Bayesian networks) 
      
-   6. Software
+  8. Bayesian network software
        - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
        - [Bayesia](https://www.bayesia.com/)
        - [AgenaRisk](https://www.agenarisk.com/)
