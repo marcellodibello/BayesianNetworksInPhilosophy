@@ -110,26 +110,35 @@
         - [Large](https://www.bnlearn.com/bnrepository/discrete-large.html)(50-100 nodes) 
         - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
         - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
-    
-4. Bayesian networks (practice): review case studies
 
-Second part would have speakeras on various topics:
+## Evidence Law 
+   - Bayesian networks (evidence): court cases
+   - Fenton, Biedermann, Lagnado, Vlek
+   
+## Causality
+   - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
+    - Judeal Pearl's works: 
+       - [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+       - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
+       - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
+  - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
 
-5. Bayesian networks (evidence): court cases
-6. Lagnado, Fenton, Biedermann, Verheij, etc.
+## Fairness
+   - [causality background](https://fairmlbook.org/causal.html)
+   - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
-7. Coherence
-8. Rafal?
+## Coherence
+   - Rafal?
 
-9. Causality
-- [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
-- Judeal Pearl's works: [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html), [The book of why](http://bayes.cs.ucla.edu/WHY/) , [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
 
-10. [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
+
+
+
+
+
+
+10. 
   - other topics: disagreement
-
-11. Fairness - [causality background](https://fairmlbook.org/causal.html)
- 12. Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
 13. Discussion of some work by Hartman - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
 14. S. Hartman, Bayesian networks in philosophy of science, 
