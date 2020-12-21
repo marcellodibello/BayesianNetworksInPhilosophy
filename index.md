@@ -48,7 +48,10 @@
  4. Other important concepts 
     - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
     - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
+    - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
+        - Probability mass function (PMF) vs. probability density function (PDF)
     - [Marginal probability](https://www.youtube.com/watch?v=r27mouuyFQk)
+        - Joint probability vs. marginal probability, examples and general formulas 
     
 
 ## Bayesian Networks
