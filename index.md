@@ -77,16 +77,18 @@
           
  - More in depth (different introductions to Bayesian networks)
      - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
-        - Introduction to Bayesian networks by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
+        - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
         - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
      - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-         - Introduction to Bayesian networks by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
-     - [Bayesian Network](https://www.youtube.com/watch?v=5s7XdGacztw)
-        - Introduction to Bayesian networks by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
-     - [Bayesian Network](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) by [Pedro Domingos](https://twitter.com/pmddomingos) from the university of Washington   
-     - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
+         - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
+     - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
+        - Introduction by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
+     - [Bayesian Networks](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
+        - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
+     - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
+        - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
      
      
   - Related topics      
