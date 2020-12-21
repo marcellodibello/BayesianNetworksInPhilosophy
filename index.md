@@ -136,7 +136,7 @@
 
 ## Voting, judgment aggregation
 
-   - Luc Bovens
+   - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
     
 ## Philosophy of science 
 
