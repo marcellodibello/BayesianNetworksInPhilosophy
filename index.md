@@ -6,21 +6,21 @@
 ## Probability refresher
     
 ### Sample space and probability axioms (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT via MIT OpenCourseWare)
-    - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
+   - [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
         -  Sample space, random experiments, events
-    - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
-    - [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
+   - [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
+   - [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
          - Three probability axioms
-    - [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
+   - [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
          - Lemmas/theorems that can be derived from the axioms
-     - [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
+   - [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
          - More lemmans/theorems that can be derived from the axioms
-     - [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
-    - [A Continuous Example](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
-    - [Countable Additivity](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
-    - [Interpretations & Uses of Probabilities](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
+   - [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
+   - [A Continuous Example](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
+   - [Countable Additivity](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
+   - [Interpretations & Uses of Probabilities](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
          - Frequentist vs. subjective (betting) interpretation of probability
-    - Mathemathical background:
+   - Mathemathical background:
          - [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
                     Set operations, intersectionl, union, complementation
          - [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
@@ -28,91 +28,90 @@
      - **Summary of key definitions in Chapter 1, sections 1.1 and 1.2 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
             
 ### Conditional probability and Bayes's rule
-     - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
-     - [A Die Roll Example](https://www.youtube.com/watch?v=YenDB3yOfDc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=24)
-     - [Conditional Probabilities Obey the Same Axioms](https://www.youtube.com/watch?v=L_pEeYLGaP0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=25)
-     - [A Radar Example and Three Basic Tools](https://www.youtube.com/watch?v=uL31gpFdarc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=26)
+   - [Conditional Probabilities](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
+   - [A Die Roll Example](https://www.youtube.com/watch?v=YenDB3yOfDc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=24)
+   - [Conditional Probabilities Obey the Same Axioms](https://www.youtube.com/watch?v=L_pEeYLGaP0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=25)
+   - [A Radar Example and Three Basic Tools](https://www.youtube.com/watch?v=uL31gpFdarc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=26)
         - [First tool:The Multiplication Rule](https://www.youtube.com/watch?v=ugzs7dgQ-JE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=27)
         - [Seciond tool: Total Probability Theorem](https://www.youtube.com/watch?v=8odFouBR2wE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=28)
         - [Third tool: Bayes' Rule](https://www.youtube.com/watch?v=kz2tvO_ZAKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=29)
-    - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
+   - [Bayes' rule - an intuitive explanation](https://www.youtube.com/watch?v=EbyUsf_jUjk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=14)
         -  Video above is by [Ben Lambert](https://ben-lambert.com/) from Imperial College London 
-    - [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8&t=228s)
+   - [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8&t=228s)
         - Interesting examples of applications of Bayes' thorem by [Julia Galef](https://en.wikipedia.org/wiki/Julia_Galef), co-founder of the [Center for Applied Rationality](https://rationality.org/)
      - [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
      - **Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
 
 ### Independence
-    - [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
-    - [Independence of Two Events](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
-    - [Independence of Event Complements](https://www.youtube.com/watch?v=JZkT3NU2mPM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=33)
-    - [Conditional Independence](https://www.youtube.com/watch?v=7B3cDe39lwY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=34)
-    - [Independence Versus Conditional Independence](https://www.youtube.com/watch?v=TAyA-rjmesQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=35)
-    - [Independence of a Collection of Events](https://www.youtube.com/watch?v=UbQcqFH33G0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=36)
-    - [Independence Versus Pairwise Independence](https://www.youtube.com/watch?v=aJXfyfQs2Mc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=37)
-    - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
-    - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
-    - **Summary of key definitions in Chapter 1, section 1.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
+   - [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
+   - [Independence of Two Events](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
+   - [Independence of Event Complements](https://www.youtube.com/watch?v=JZkT3NU2mPM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=33)
+   - [Conditional Independence](https://www.youtube.com/watch?v=7B3cDe39lwY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=34)
+   - [Independence Versus Conditional Independence](https://www.youtube.com/watch?v=TAyA-rjmesQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=35)
+   - [Independence of a Collection of Events](https://www.youtube.com/watch?v=UbQcqFH33G0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=36)
+   - [Independence Versus Pairwise Independence](https://www.youtube.com/watch?v=aJXfyfQs2Mc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=37)
+   - [Reliability](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
+   - [The King's Sibling](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
+   - **Summary of key definitions in Chapter 1, section 1.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
     
 ### Other important concepts 
-    - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
-    - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
-    - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
+   - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
+   - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
+   - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
         - Probability mass function (PMF) vs. probability density function (PDF)
         - [The Distribution Zoom](https://ben18785.shinyapps.io/distribution-zoo/)
-    - [Marginal probability](https://www.youtube.com/watch?v=r27mouuyFQk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=6)
+   - [Marginal probability](https://www.youtube.com/watch?v=r27mouuyFQk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=6)
         - Joint probability vs. marginal probability, examples and general formulas 
         - Two videos above are by [Ben Lambert](https://ben-lambert.com/) from Imperial College London  
-    - [Conditional probability and chain rule](https://www.youtube.com/watch?v=B020i4yW1tc)
-    - [Expectation](https://www.youtube.com/watch?v=GARQ31BrKQA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=57)
-    - [Joint PMFs](https://www.youtube.com/watch?v=7nu97OYx4X4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=67)
-    - **Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
+   - [Conditional probability and chain rule](https://www.youtube.com/watch?v=B020i4yW1tc)
+   - [Expectation](https://www.youtube.com/watch?v=GARQ31BrKQA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=57)    - [Joint PMFs](https://www.youtube.com/watch?v=7nu97OYx4X4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=67)
+   - **Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
     
 
 ## Bayesian Networks
 
 ### Basic idea
-      - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
-      - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
+   - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
+   - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
            - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
            - The key message here is that Bayesian networks are compact representations of joint probability distributions 
            - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
 ### More in depth (different introductions to Bayesian networks)
-     - [Bayesian Network](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
+   - [Bayesian Networks](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
         - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
         - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
-     - [Bayesian network](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-         - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University  
-     - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
+   - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
+   - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
+   - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
         - Introduction by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
-     - [Bayesian Networks](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
+  - [Bayesian Networks](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
         - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
-     - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
-        - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
-      - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
+  - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
+  - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
+  - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
         - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
       
      
 ### Related topics      
-      - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+   - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - Introduction to neural networks (as opposed to Bayesian networks) 
      
 ### Bayesian network software
-       - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
-       - [Bayesia](https://www.bayesia.com/)
-       - [AgenaRisk](https://www.agenarisk.com/)
-       - [BayesianFusion](https://www.bayesfusion.com/)
+   - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
+   - [Bayesia](https://www.bayesia.com/)
+   - [AgenaRisk](https://www.agenarisk.com/)
+   - [BayesianFusion](https://www.bayesfusion.com/)
 
-   - Benchmark examples of Bayesian networks
-        - [Small](https://www.bnlearn.com/bnrepository/discrete-small.html) (less than 20 nodes)
-        - [Medium](https://www.bnlearn.com/bnrepository/discrete-medium.html) (20-50 nodes)
-        - [Large](https://www.bnlearn.com/bnrepository/discrete-large.html)(50-100 nodes) 
-        - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
-        - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
+### Benchmark examples of Bayesian networks     
+   - [Small](https://www.bnlearn.com/bnrepository/discrete-small.html) (less than 20 nodes)
+   - [Medium](https://www.bnlearn.com/bnrepository/discrete-medium.html) (20-50 nodes
+   - [Large](https://www.bnlearn.com/bnrepository/discrete-large.html)(50-100 nodes) 
+   - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
+   - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
 ## Philosophical applications
 
