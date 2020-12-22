@@ -121,9 +121,14 @@
  
 ## Evidence Law 
 
-   
-   - Bayesian networks (evidence): court cases
-   - Fenton, Biedermann, Lagnado, Vlek
+  - Norman Fenton, Martin Neil and David A. Lagnado, [A General Structure for Legal Arguments About Evidence
+Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/legal_arguments.pdf)
+      - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
+      a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
+      - Backgroung readings
+        -  The Story Model 
+      
+      - Fenton, Biedermann, Lagnado, Vlek
    
 ## Coherence
    
