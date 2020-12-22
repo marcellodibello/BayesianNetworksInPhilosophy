@@ -10,21 +10,21 @@
        * Sample space, random experiments, events
    * [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
    * [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
-        * Three probability axioms
+       * Three probability axioms
    * [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
-         * Lemmas/theorems that can be derived from the axioms
+       * Lemmas/theorems that can be derived from the axioms
    * [More Properties of Probabilities](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
-         * More lemmans/theorems that can be derived from the axioms
+       * More lemmans/theorems that can be derived from the axioms
    * [A Discrete Example](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
    * [A Continuous Example](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
    * [Countable Additivity](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
    * [Interpretations & Uses of Probabilities](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
-         * Frequentist vs. subjective (betting) interpretation of probability
+       * Frequentist vs. subjective (betting) interpretation of probability
    * Mathemathical background:
-         * [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
+       * [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
                     Set operations, intersectionl, union, complementation
-         * [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
-         * [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
+       * [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
+       * [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
     * Summary of key definitions in Chapter 1, sections 1.1 and 1.2 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
             
 ### Conditional probability and Bayes's rule
@@ -58,14 +58,14 @@
    - [Definition of Random Variables](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
    - [Probability Mass Function](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
    - [Probability distribution](https://www.youtube.com/watch?v=jbhi96p4mwI&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=5)
-        - Probability mass function (PMF) vs. probability density function (PDF)
-        - [The Distribution Zoom](https://ben18785.shinyapps.io/distribution-zoo/)
+       - Probability mass function (PMF) vs. probability density function (PDF)
+       - [The Distribution Zoom](https://ben18785.shinyapps.io/distribution-zoo/)
    - [Marginal probability](https://www.youtube.com/watch?v=r27mouuyFQk&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=6)
-        - Joint probability vs. marginal probability, examples and general formulas 
-        - Two videos above are by [Ben Lambert](https://ben-lambert.com/) from Imperial College London  
+       - Joint probability vs. marginal probability, examples and general formulas 
+       - Two videos above are by [Ben Lambert](https://ben-lambert.com/) from Imperial College London  
    - [Conditional probability and chain rule](https://www.youtube.com/watch?v=B020i4yW1tc)
    - [Expectation](https://www.youtube.com/watch?v=GARQ31BrKQA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=57)    - [Joint PMFs](https://www.youtube.com/watch?v=7nu97OYx4X4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=67)
-   - **Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)**
+   - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
 ## Bayesian Networks
@@ -73,9 +73,9 @@
 ### Basic idea
    - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
    - [Bayesian network model for personalised COVID19 risk assessment and contact tracing](https://www.youtube.com/watch?v=3KGYuLFMRSY)
-           - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
-           - The key message here is that Bayesian networks are compact representations of joint probability distributions 
-           - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
+        - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
+        - The key message here is that Bayesian networks are compact representations of joint probability distributions 
+        - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
 ### More in depth (different introductions to Bayesian networks)
    - [Bayesian Networks](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
