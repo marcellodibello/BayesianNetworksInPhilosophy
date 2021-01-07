@@ -17,7 +17,7 @@
 
 ### Class meetings
 
-Beginning Jan 11, 2021, the class meets every Monday, 3:00-5:45 PM
+Class meets every Monday, 3:00-5:45 PM
 
 ### Learning outcomes
 
