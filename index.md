@@ -125,18 +125,18 @@ Your final grade will be the weighted average of the letter grades you received 
           
 #### More in depth (different introductions to Bayesian networks)
    - [Bayesian Networks](https://www.youtube.com/watch?v=480a_2jRdK0)
-        - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
+      - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
    - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-        - Introduction (video) by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
+      - Introduction (video) by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
    - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
-        - Introduction (video) by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
-  - [Bayesian Networks]() 
-        - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
-  - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
-          - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
-  - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
-         - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
-  - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
+      - Introduction (video) by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
+   - [Bayesian Networks]() 
+      - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
+   - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
+      - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University    
+   - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
+       - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
+    - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
           - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
 
       
@@ -145,9 +145,10 @@ Your final grade will be the weighted average of the letter grades you received 
    - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - Introduction to neural networks (as opposed to Bayesian networks) 
-     - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+    - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
+
 #### Bayesian network software
    - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
    - [Bayesia](https://www.bayesia.com/)
