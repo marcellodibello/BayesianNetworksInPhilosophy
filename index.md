@@ -1,6 +1,5 @@
-# Bayesian Networks in Philosophy (14 meetings) {.unlisted .unnumbered}
 
-## Table of contents {.unlisted .unnumbered}
+**Table of contents** 
 * TOC
 {:toc}
 
