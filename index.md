@@ -5,7 +5,8 @@
 
 ## Probability refresher
     
-### Sample space and probability axioms (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT via MIT OpenCourseWare)
+### Sample space and probability axioms 
+(most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
    * [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
        * Sample space, random experiments, events
    * [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
