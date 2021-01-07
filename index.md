@@ -178,8 +178,9 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
       - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
       a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
    - Backgroung readings
-        - Pennington and Hstie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
-   
+       - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
+       - Di Bello and Urbaniak, Legal Probabilism
+       
 #### Coherence
    
    - Rafal Urbaniak?
