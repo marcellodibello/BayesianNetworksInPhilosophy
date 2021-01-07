@@ -1,5 +1,5 @@
 
-**Table of contents** 
+** Syllabus table of contents** 
 * TOC
 {:toc}
 
@@ -127,13 +127,13 @@ Your final grade will be the weighted average of the letter grades you received 
    - [Bayesian Networks](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
         - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
    - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
-   - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
+        - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
    - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
         - Introduction by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
   - [Bayesian Networks](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
         - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
   - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
-  - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
+       - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
   - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
         - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
       
