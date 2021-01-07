@@ -68,7 +68,7 @@ Your final grade will be the weighted average of the letter grades you received 
        * Frequentist vs. subjective (betting) interpretation of probability
    * Mathemathical background:
        * [Sets](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
-            * Set operations, intersectionl, union, complementation
+            * Set operations, intersection, union, complementation
        * [De Morgan's Laws](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
        * [Countable and Uncountable Sets](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
    * Summary of key definitions in Chapter 1, sections 1.1 and 1.2 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
@@ -130,14 +130,14 @@ Your final grade will be the weighted average of the letter grades you received 
         - Introduction (video) by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
    - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
         - Introduction (video) by [Francisco Iacobelli](https://scholar.google.com/citations?user=XD7tOsUAAAAJ&hl=en) from Northeastern Illinois University  
-  - [Bayesian Networks](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
+  - [Bayesian Networks]() 
         - Introduction (slides) by [Pedro Domingos](https://twitter.com/pmddomingos) from the University of Washington   
   - Bayesian Networks ([part 1](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf) and [part 2](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture23-bayesnet2.pdf)) 
-        - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
+          - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University
   - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
-        - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
+         - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
   - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
-        -  Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
+          - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
 
       
      
