@@ -1,9 +1,13 @@
 
-**Overview**
+**Table of contents** 
+* TOC
+{:toc}
+
+## Overview
 
 This course is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 1. Probability refresher; 2. Intro to Bayesian networks; and 3. Philoshical applications. 
 
-**Coursework** 
+## Coursework
 To get credit for this course, students will be expected to: 
 a. take a probability exam (Pass/Fail -- to obtain a pass in this exam is a necessary condition to pass the course); 
 b. construct a Bayesian network about a phenomenon of interest (20% of final grade); 
@@ -12,13 +16,12 @@ d. partcipare regukarly to class discussions (20% of final grade).
 
 Students are encouraged to pursue their own interest and line of research. Emphasis is on conceptual understanding rather than computations. 
 
-**Course topics and schedule** 
-* TOC
-{:toc}
 
-## PART 1: Probability refresher (Weeks 1--4)
-    
-### Sample space and probability axioms 
+### Course topics and schedule
+
+### PART 1: Probability refresher (Weeks 1--4)
+
+#### Sample space and probability axioms 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
    * [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
        * Sample space, random experiments, events
