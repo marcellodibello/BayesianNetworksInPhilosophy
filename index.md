@@ -136,8 +136,8 @@ Your final grade will be the weighted average of the letter grades you received 
       - Introduction (slides) by [Matt Gormley](http://www.cs.cmu.edu/~mgormley/) from Carnegie Mellon University    
    - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
        - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
-    - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
-          - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
+   - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
+        - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
 
       
      
