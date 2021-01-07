@@ -5,7 +5,7 @@
 
 ## Course overview
 
-*Bayesian Networks in Philosophy* (PHI420/PHI555) is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
+*Bayesian Networks in Philosophy* (PHI420/PHI555, 3 credits) is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
 
   1. Probability theory refresher
   2. Intro to Bayesian networks
@@ -23,10 +23,10 @@ Class meets every Monday, 3:00-5:45 PM
 
 At the completion of the course, you will have:
 
-- Mastered the basics of probability theory and Bayesian networks
-- Constructed a Bayesian network
-- Critically engaged with contemporary philosophical research on Bayesian networks 
-- Conducted indepedent research in philosophy using Bayesian networks
+- mastered the basics of probability theory and Bayesian networks
+- constructed a Bayesian network
+- critically engaged with contemporary philosophical research on Bayesian networks 
+- conducted independent research in philosophy using Bayesian networks
 
 ### Coursework and major assignments
 You will be expected to: 
@@ -38,13 +38,13 @@ You will be expected to:
 
 You are encouraged to pursue your own interests and lines of research. Emphasis is on conceptual understanding, not computations. 
 
-#### Submissions
+#### Assignment submissions
 
 *All assignments must be submitted in Canvas* by the due date. Please check Canvas for details. 
 
 ### Final Grade
 
-Your final grade will be the weighted average of the letter grades you received on individual assisgments. You must pass the "probability exam" in order to pass the course.  
+Your final grade will be the weighted average of the letter grades you received on individual assignments. You must pass the probability exam in order to pass the course.  
 
 ## Course topics and schedule
 
