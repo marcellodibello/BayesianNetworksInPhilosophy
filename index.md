@@ -11,15 +11,15 @@
   2. Intro to Bayesian networks
   3. Philosophical applications 
   
-## Instructor 
+### Instructor 
 
 [Marcello Di Bello](https://isearch.asu.edu/profile/3706519) -- *email*: mdibello AT asu DOT edu
 
-## Class meetings
+### Class meetings
 
 Beginning Jan 11, 2021, the class meets every Monday, 3:00-5:45 PM
 
-## Learning outcomes
+### Learning outcomes
 
 At the completion of the course, you will have:
 
@@ -28,7 +28,7 @@ At the completion of the course, you will have:
 - Critically engaged with contemporary philosophical research on Bayesian networks 
 - Conducted indepedent research in philosophy using Bayesian networks
 
-## Coursework and major assignments
+### Coursework and major assignments
 You will be expected to: 
 
   - take a probability exam (Pass/Fail)
@@ -38,11 +38,11 @@ You will be expected to:
 
 You are encouraged to pursue your own interests and lines of research. Emphasis is on conceptual understanding, not computations. 
 
-### Submissions
+#### Submissions
 
 *All assignments must be submitted in Canvas* by the due date. Please check Canvas for details. 
 
-## Final Grade
+### Final Grade
 
 Your final grade will be the weighted average of the letter grades you received on individual assisgments. You must pass the "probability exam" in order to pass the course.  
 
