@@ -19,19 +19,32 @@
 
 Beginning Jan 11, 2021, the class meets every Monday, 3:00-5:45 PM
 
-## Exam, asignments, papers
+## Learning outcomes
+
+At the completion of the course, you will have:
+
+- Mastered the basics of probability theory and Bayesian networks
+- Constructed a Bayesian network
+- Critically engaged with contemporary philosophical research on Bayesian networks 
+- Conducted indepedent research in philosophy using Bayesian networks
+
+## Coursework and major assignments
 You will be expected to: 
 
   - take a probability exam (Pass/Fail)
   - construct a Bayesian network about a phenomenon of interest (20% of final grade)
-  - write a research-level paper that applies Bayesian networks to a philosophical question, broadly understood (60% of final grade)
+  - write a research paper that applies Bayesian networks to a philosophical question, broadly understood (60% of final grade)
   - participate regularly to class discussions (20% of final grade)
 
-You are encouraged to pursue your own interest and line of research. Emphasis is on conceptual understanding, no computations. 
+You are encouraged to pursue your own interests and lines of research. Emphasis is on conceptual understanding, not computations. 
+
+### Submissions
+
+*All assignments must be submitted in Canvas* by the due date. Please check Canvas for details. 
 
 ## Final Grade
 
-Your final grade will be the weighted average of the grades you received during the semester. You must pass the probability exam in order to pass the course.  
+Your final grade will be the weighted average of the letter grades you received on individual assisgments. You must pass the "probability exam" in order to pass the course.  
 
 ## Course topics and schedule
 
@@ -191,3 +204,12 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
         - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
         - [theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
         - other [topics](http://www.stephanhartmann.org/publications/): judgement aggregation, deliberation, truth, democracy
+        
+
+## Syllabus Disclaimer
+The syllabus is a statement of intent and serves as an implicit agreement between the instructor and the student. Every effort will be made to avoid changing the course schedule but the possibility exists that unforeseen events will make syllabus changes necessary. Remember to check your ASU email and the course site often.
+
+## Title IX
+Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity.  Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited.  An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university.  If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at https://sexualviolenceprevention.asu.edu/faqs 
+
+As a mandated reporter, I am obligated to report any information I become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence.  [ASU Counseling Services](https://eoss.asu.edu/counseling) is available if you wish to discuss any concerns confidentially and privately. ASU online students may access [360 Life Services](https://goto.asuonline.asu.edu/success/online-resources.html). 
