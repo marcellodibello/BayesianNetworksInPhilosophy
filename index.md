@@ -143,18 +143,20 @@ Your final grade will be the weighted average of the letter grades you received 
      
 #### Related topics      
    - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
-           - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
-           - Introduction to neural networks (as opposed to Bayesian networks) 
-    - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
-           - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
-           - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
+        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+        - Introduction to neural networks (as opposed to Bayesian networks) 
+   - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+        - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
 #### Bayesian network software
+   - [OpenMarkov](http://www.openmarkov.org/users.html) -- free, needs Java, runs on both Mac and Windows
    - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
-   - [Bayesia](https://www.bayesia.com/)
-   - [AgenaRisk](https://www.agenarisk.com/)
-   - [BayesianFusion](https://www.bayesfusion.com/)
-
+   - [Bayesia](https://www.bayesia.com/) - not free
+   - [AgenaRisk](https://www.agenarisk.com/) - not free
+   - [BayesianFusion](https://www.bayesfusion.com/) - free, but needs Windoes 
+   
+   
 #### Benchmark examples of Bayesian networks     
    - [Small](https://www.bnlearn.com/bnrepository/discrete-small.html) (less than 20 nodes)
    - [Medium](https://www.bnlearn.com/bnrepository/discrete-medium.html) (20-50 nodes
@@ -175,10 +177,8 @@ Your final grade will be the weighted average of the letter grades you received 
 Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/legal_arguments.pdf)
       - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
       a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
-      - Backgroung readings
-        -  The Story Model 
-      
-      - Fenton, Biedermann, Lagnado, Vlek
+   - Backgroung readings
+        - Pennington and Hstie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
    
 #### Coherence
    
@@ -188,26 +188,24 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
    - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
    - Judeal Pearl's works: 
-        - [Simposon'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+        - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
         - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
         - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
   - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
 
 #### Fairness
 
-   - [causality background](https://fairmlbook.org/causal.html)
+   - [Causality background](https://fairmlbook.org/causal.html)
    - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
-#### Voting, judgment aggregation
+#### Voting
 
    - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
     
 #### Philosophy of science 
 
-   - Discussion of some work by Stephan Hartman 
-        - [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
-        - [theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
-        - other [topics](http://www.stephanhartmann.org/publications/): judgement aggregation, deliberation, truth, democracy
+   - Hartman and Sprenger, [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
+   - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
         
 
 ## Syllabus Disclaimer
