@@ -3,13 +3,23 @@
 * TOC
 {:toc}
 
-## Overview
+## Course overview
 
-This course is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
+*Bayesian Networks in Philosophy*, cross-listed as PHI420/PHI555, is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
 
   1. Probability theory refresher
   2. Intro to Bayesian networks
   3. Philosophical applications 
+  
+## Instructor 
+
+[Marcello Di Bello](https://isearch.asu.edu/profile/3706519) 
+
+email: mdibello@asu.edu
+
+## Class meeting
+
+The class meets during Spring 2021 on Mondays, 3:00-5:45 PM.
 
 ## Coursework
 You will be expected to: 
@@ -19,7 +29,7 @@ You will be expected to:
   - write a research-level paper that applies Bayesian networks to a philosophical question, broadly understood (60% of final grade)
   - participate regularly to class discussions (20% of final grade)
 
-Students are encouraged to pursue their own interest and line of research. Emphasis is on conceptual understanding rather than computations. 
+You are encouraged to pursue your own interest and line of research. Emphasis is on conceptual understanding, no computations. 
 
 
 ## Course topics and schedule
