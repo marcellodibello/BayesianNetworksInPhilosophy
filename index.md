@@ -1,9 +1,10 @@
-# Bayesian Networks in Philosophy (14 meetings)
+# Bayesian Networks in Philosophy (14 meetings) {.unlisted .unnumbered}
 
+## Table of contents {.unlisted .unnumbered}
 * TOC
 {:toc}
 
-## Probability refresher
+## PART 1: Probability refresher (Weeks 1--4)
     
 ### Sample space and probability axioms 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
@@ -69,7 +70,7 @@
    - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
-## Bayesian Networks
+## PART 2: Bayesian Networks (Weeks 5--6)
 
 ### Basic idea
    - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
@@ -81,9 +82,6 @@
 ### More in depth (different introductions to Bayesian networks)
    - [Bayesian Networks](https://scholar.google.com/citations?user=AwP_bbsAAAAJ)
         - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
-        - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
-           - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
-           - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf) 
    - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
    - Introduction by [Richard Neapolitan](https://scholar.google.com/citations?user=E9_aqCoAAAAJ&hl=en) from Northeastern Illinois University     
    - [Bayesian Networks](https://www.youtube.com/watch?v=5s7XdGacztw)
@@ -100,7 +98,9 @@
    - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
            - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
            - Introduction to neural networks (as opposed to Bayesian networks) 
-     
+     - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+           - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+           - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 ### Bayesian network software
    - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
    - [Bayesia](https://www.bayesia.com/)
@@ -114,14 +114,14 @@
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
-## Philosophical applications
+## PART 3: Philosophical applications (Weeks 7--14)
 
-### Epistemology and evidence assessment
+### Evidence assessment
    
    - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
    - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
  
-### Evidence and Legal Argumentation  
+### Legal argumentation  
 
   - Norman Fenton, Martin Neil and David A. Lagnado, [A General Structure for Legal Arguments About Evidence
 Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/legal_arguments.pdf)
