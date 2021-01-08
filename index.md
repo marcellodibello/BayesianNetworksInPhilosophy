@@ -123,7 +123,13 @@ Your final grade will be the weighted average of the letter grades you received 
         - The key message is that Bayesian networks are compact representations of joint probability distributions 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
           
-#### More in depth (different introductions to Bayesian networks)
+#### More in depth 
+(videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
+  - [Bayesian Networks: Syntax and Semantics](https://www.youtube.com/watch?v=dkjZuRBkwg8&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=5)
+  - [Bayesian Networks: Independence and d-Separation](https://www.youtube.com/watch?v=oHfkTtcD5Ro&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=6)
+The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reasoning with Bayesian networks*. 
+
+### Other introductions to Bayesian networks 
    - [Bayesian Networks](https://www.youtube.com/watch?v=480a_2jRdK0)
       - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
    - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
@@ -137,9 +143,7 @@ Your final grade will be the weighted average of the letter grades you received 
    - [Understanding Bayesian Networks with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
        - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
    - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
-        - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)
-
-      
+        - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)     
      
 #### Related topics      
    - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
