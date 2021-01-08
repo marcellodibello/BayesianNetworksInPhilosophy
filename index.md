@@ -127,6 +127,7 @@ Your final grade will be the weighted average of the letter grades you received 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
   - [Bayesian Networks: Syntax and Semantics](https://www.youtube.com/watch?v=dkjZuRBkwg8&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=5)
   - [Bayesian Networks: Independence and d-Separation](https://www.youtube.com/watch?v=oHfkTtcD5Ro&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=6)
+
 The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reasoning with Bayesian networks*. 
 
 ### Other introductions to Bayesian networks 
