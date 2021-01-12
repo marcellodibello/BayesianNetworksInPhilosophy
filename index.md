@@ -155,12 +155,12 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
         - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
 #### Bayesian network software
+   - [Hugin](https://www.hugin.com/index.php/hugin-lite/) -- free version with limited functionality, needs Java, runs on PC, Linux and Mac
    - [OpenMarkov](http://www.openmarkov.org/users.html) -- free, needs Java, runs on both Mac and Windows
    - [JavaBayes](https://www.cs.cmu.edu/~javabayes/)
+   - [BayesianFusion](https://www.bayesfusion.com/) - free, but needs Windows 
    - [Bayesia](https://www.bayesia.com/) - not free
-   - [AgenaRisk](https://www.agenarisk.com/) - not free
-   - [BayesianFusion](https://www.bayesfusion.com/) - free, but needs Windoes 
-   
+   - [AgenaRisk](https://www.agenarisk.com/) - not free 
    
 #### Benchmark examples of Bayesian networks     
    - [Small](https://www.bnlearn.com/bnrepository/discrete-small.html) (less than 20 nodes)
