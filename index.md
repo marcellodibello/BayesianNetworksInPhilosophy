@@ -55,6 +55,8 @@ Your final grade will be the weighted average of the letter grades you received 
    * [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
        * Sample space, random experiments, events
    * [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
+   * [Sample Space and Counting](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+       * Video above by Joseph K. Blitzstein from Harvard
    * [Probability Axioms](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
        * Three probability axioms
    * [Simple Properties of Probabilities](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
@@ -195,6 +197,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
    - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
    - Judeal Pearl's works: 
         - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)
         - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
         - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
   - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
@@ -222,15 +225,15 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 ##### March 15
 
-#### March 22
+##### March 22
 
-#### Mach 29 - Stephen Hartmann 
+##### Mach 29 - Stephen Hartmann 
 
-#### April 5
+##### April 5
 
-#### April 12
+##### April 12
 
-#### April 19
+##### April 19
 
 
 ## Syllabus Disclaimer
