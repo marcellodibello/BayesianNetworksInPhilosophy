@@ -214,6 +214,25 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
    - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
         
 
+#### Schedule of talks
+
+##### March 1
+
+##### March 8
+
+##### March 15
+
+#### March 22
+
+#### Mach 29 - Stephen Hartmann 
+
+#### April 5
+
+#### April 12
+
+#### April 19
+
+
 ## Syllabus Disclaimer
 The syllabus is a statement of intent and serves as an implicit agreement between the instructor and the student. Every effort will be made to avoid changing the course schedule but the possibility exists that unforeseen events will make syllabus changes necessary. Remember to check your ASU email and the course site often.
 
