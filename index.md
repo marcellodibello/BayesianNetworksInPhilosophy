@@ -227,7 +227,15 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 ##### March 22
 
-##### Mach 29 - Stephen Hartmann 
+##### Mach 29 - Stephan Hartmann, Bayesian Networks in Philosophy of Science
+
+Preparatory readings:
+
+- Dawid, Hartmann and Sprenger, [The No Alternatives Argument](https://academic.oup.com/bjps/article-abstract/66/1/213/1530635?redirectedFrom=PDF)
+
+- Hartmann, [Bayes Nets and Rationality](http://philsci-archive.pitt.edu/16937/)
+
+- Dardashti and Hartmann, [Assessing Scientific Theories: The Bayesian Approach](http://www.stephanhartmann.org/wp-content/uploads/2019/04/DardashtiHartmann_Assessing.pdf)
 
 ##### April 5
 
