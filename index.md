@@ -214,6 +214,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 #### Philosophy of science 
 
    - Hartman and Sprenger, [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
+   
    - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
         
 
@@ -227,7 +228,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 ##### March 22
 
-##### Mach 29 - Stephan Hartmann, Bayesian Networks in Philosophy of Science
+##### Mach 29 - [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
 Preparatory readings:
 
@@ -237,7 +238,7 @@ Preparatory readings:
 
 - Dardashti and Hartmann, [Assessing Scientific Theories: The Bayesian Approach](http://www.stephanhartmann.org/wp-content/uploads/2019/04/DardashtiHartmann_Assessing.pdf)
 
-##### April 5
+##### April 5 - [Jonathan Herington](https://jherington.com/)
 
 ##### April 12
 
