@@ -138,13 +138,13 @@ Your final grade will be the weighted average of the letter grades you received 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
         
 #### Simpson's Paradox
-  - Judeal Pearl's works: 
-        - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
-        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
-        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
-        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
+   - Judeal Pearl's works: 
+       - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+       - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
+       - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
+       - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
 
-### February 15
+### February 22
           
 #### More in depth 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
@@ -208,8 +208,8 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
       - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
       a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
       - Backgroung readings
-       - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
-       - Di Bello and Urbaniak, Legal Probabilism
+        - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
+        - Di Bello and Urbaniak, Legal Probabilism
     
 #### March 8 - TBA
 
@@ -217,7 +217,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 #### March 22 - TBA
 
-#### Mach 29 - [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
+#### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
 Preparatory readings:
 
@@ -233,7 +233,7 @@ Extra readings:
    
 - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
 
-#### April 5 - [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
+#### April 5 - Guest speaker: [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
 
 Preparatory readings:
 
@@ -243,7 +243,7 @@ Preparatory readings:
 
 -[Causality background](https://fairmlbook.org/causal.html)
 
-#### April 12 - [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+#### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
 
 Preparatory readings:
 
