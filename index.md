@@ -3,7 +3,7 @@
 * TOC
 {:toc}
 
-## Course overview
+# Course overview
 
 *Bayesian Networks in Philosophy* (PHI420/PHI555, 3 credits) is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
 
@@ -46,9 +46,17 @@ You are encouraged to pursue your own interests and lines of research. Emphasis 
 
 Your final grade will be the weighted average of the letter grades you received on individual assignments. You must pass the probability exam in order to pass the course.  
 
-## Course topics and schedule
+# Course topics and schedule
 
-### PART 1: Probability theory refresher (Weeks 1--4)
+## PART 1: Probability theory refresher (Weeks 1--4)
+
+### January 11 - Introduction
+
+ * Course mechanics, assignments, topics
+ 
+### January 18 - MLK day - no class
+ 
+### January 25 
 
 #### Sample space and probability axioms 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
@@ -90,6 +98,8 @@ Your final grade will be the weighted average of the letter grades you received 
    * [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
    * Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
 
+### February 1 
+
 #### Independence
    * [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
    * [Independence of Two Events](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
@@ -116,7 +126,9 @@ Your final grade will be the weighted average of the letter grades you received 
    - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
-### PART 2: Bayesian Networks (Weeks 5--6)
+## PART 2: Bayesian Networks (Weeks 5--6)
+
+### February 
 
 #### Basic idea
    - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
