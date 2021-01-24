@@ -205,7 +205,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 #### Fairness
 
    - [Causality background](https://fairmlbook.org/causal.html)
-   - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
+   
 
 #### Voting
 
@@ -243,6 +243,8 @@ Preparatory readings:
 Preparatory readings:
 
 - Richard Scheines, [An Introduction to Causal Inference](https://www.cmu.edu/dietrich/philosophy/docs/scheines/introtocausalinference.pdf)
+
+- Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
 ##### April 12 - [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
 
