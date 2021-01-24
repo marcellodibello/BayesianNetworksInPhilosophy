@@ -241,7 +241,7 @@ Preparatory readings:
 
 - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
--[Causality background](https://fairmlbook.org/causal.html)
+- [Causality background](https://fairmlbook.org/causal.html)
 
 #### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
 
