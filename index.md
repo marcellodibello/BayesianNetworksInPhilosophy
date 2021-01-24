@@ -1,5 +1,5 @@
 
-**Syllabus table of contents** 
+**Table of contents** 
 * TOC
 {:toc}
 
