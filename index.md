@@ -5,7 +5,7 @@
 
 # Course overview
 
-*Bayesian Networks in Philosophy* (PHI420/PHI555, 3 credits) is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
+*Bayesian Networks in Philosophy* (PHI420/PHI555, 3 credits, Spring 2021) is an exploration of the philosophical applications of Bayesian networks (perhpas more aptly called, probabilistic graphical models). The course consists of three parts (see details below): 
 
   1. Probability theory refresher
   2. Intro to Bayesian networks
