@@ -126,9 +126,9 @@ Your final grade will be the weighted average of the letter grades you received 
    - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
-## PART 2: Bayesian Networks (Weeks 5--6)
+## PART 2: Bayesian Networks (Weeks 5 through 7)
 
-### February 
+### February 8
 
 #### Basic idea
    - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
@@ -136,6 +136,15 @@ Your final grade will be the weighted average of the letter grades you received 
         - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
         - The key message is that Bayesian networks are compact representations of joint probability distributions 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
+        
+#### Simpson's Paradox
+  - Judeal Pearl's works: 
+        - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
+        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
+        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
+
+### February 15
           
 #### More in depth 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
@@ -144,7 +153,7 @@ Your final grade will be the weighted average of the letter grades you received 
 
 The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reasoning with Bayesian networks*. 
 
-### Other introductions to Bayesian networks 
+#### Other introductions to Bayesian networks 
    - [Bayesian Networks](https://www.youtube.com/watch?v=480a_2jRdK0)
       - Introduction by [Sudeshna Sarkarm](https://scholar.google.com/citations?user=AwP_bbsAAAAJ) from the Indian Institute of Technology 
    - [Bayesian networks](https://www.youtube.com/watch?v=HJ6p6bsJkXE&t=78s)
@@ -168,6 +177,11 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
         - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
         - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
+
+### February 15
+
+### Modelling phenomena using Bayesian networks 
+
 #### Bayesian network software
    - [Hugin](https://www.hugin.com/index.php/hugin-lite/) -- free version with limited functionality, needs Java, runs on PC, Linux and Mac
    - [OpenMarkov](http://www.openmarkov.org/users.html) -- free, needs Java, runs on both Mac and Windows
@@ -183,64 +197,27 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
-### PART 3: Philosophical applications (Weeks 7--14)
+### PART 3: Philosophical applications (Weeks 8 through 14)
 
-#### Evidence assessment
-   
-   - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
-   - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
- 
-#### Legal argumentation  
+#### March 1 - Evidence assessement and legal argumentation 
 
+  - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
+  - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
   - Norman Fenton, Martin Neil and David A. Lagnado, [A General Structure for Legal Arguments About Evidence
 Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/legal_arguments.pdf)
       - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
       a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
-   - Backgroung readings
+      - Backgroung readings
        - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
        - Di Bello and Urbaniak, Legal Probabilism
-       
-#### Coherence
-   
-   - Rafal Urbaniak?
-
-#### Causality
-
-   - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
-   - Judeal Pearl's works: 
-        - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
-        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)
-        - [The book of why](http://bayes.cs.ucla.edu/WHY/) 
-        - [video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
-  - [J. Sprenger](http://www.laeuferpaar.de/index.html), [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/7/GradedCausation-v7.pdf)
-
-#### Fairness
-
-   - [Causality background](https://fairmlbook.org/causal.html)
-   
-
-#### Voting
-
-   - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
     
-#### Philosophy of science 
+#### March 8 - TBA
 
-   - Hartman and Sprenger, [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
-   
-   - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
-        
+#### March 15 - TBA
 
-#### Schedule of talks
+#### March 22 - TBA
 
-##### March 1
-
-##### March 8
-
-##### March 15
-
-##### March 22
-
-##### Mach 29 - [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
+#### Mach 29 - [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
 Preparatory readings:
 
@@ -250,7 +227,13 @@ Preparatory readings:
 
 - Dardashti and Hartmann, [Assessing Scientific Theories: The Bayesian Approach](http://www.stephanhartmann.org/wp-content/uploads/2019/04/DardashtiHartmann_Assessing.pdf)
 
-##### April 5 - [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
+Extra readings:
+
+- Hartman and Sprenger, [Bayesian Philosophy Of Science](http://www.laeuferpaar.de/Papers/BookFrame_v1.pdf)
+   
+- Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
+
+#### April 5 - [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
 
 Preparatory readings:
 
@@ -258,14 +241,20 @@ Preparatory readings:
 
 - Jonathan Herington, [Measuring Fairness in an Unfair World](https://jherington.com/docs/Herington_AIES-2020.pdf)
 
-##### April 12 - [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+-[Causality background](https://fairmlbook.org/causal.html)
+
+#### April 12 - [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
 
 Preparatory readings:
 
 - Jan Sprenger, [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/)
 
-##### April 19
+- [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
+   
+#### April 19 - Voting
 
+   - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
+    
 
 ## Syllabus Disclaimer
 The syllabus is a statement of intent and serves as an implicit agreement between the instructor and the student. Every effort will be made to avoid changing the course schedule but the possibility exists that unforeseen events will make syllabus changes necessary. Remember to check your ASU email and the course site often.
