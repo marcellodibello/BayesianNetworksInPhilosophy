@@ -144,7 +144,7 @@ Your final grade will be the weighted average of the letter grades you received 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
 
-### February 22
+### February 15
           
 #### More in depth 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
@@ -178,7 +178,7 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
         - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
 
-### February 15
+### February 22
 
 #### Bayesian network software
    - [Hugin](https://www.hugin.com/index.php/hugin-lite/) -- free version with limited functionality, needs Java, runs on PC, Linux and Mac
