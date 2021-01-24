@@ -58,8 +58,10 @@ Your final grade will be the weighted average of the letter grades you received 
  
 ### January 25 
 
-#### Sample space and probability axioms 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
+
+#### Sample space and probability axioms 
+
    * [Sample Space](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
        * Sample space, random experiments, events
    * [Sample Space Examples](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
@@ -100,6 +102,8 @@ Your final grade will be the weighted average of the letter grades you received 
 
 ### February 1 
 
+(most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
+
 #### Independence
    * [A Coin Tossing Example](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
    * [Independence of Two Events](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
@@ -138,7 +142,7 @@ Your final grade will be the weighted average of the letter grades you received 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
         
 #### Simpson's Paradox
-   - Judeal Pearl's works: 
+   - Judea Pearl's works: 
        - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
