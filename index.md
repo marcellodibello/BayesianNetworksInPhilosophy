@@ -197,9 +197,9 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
-### PART 3: Philosophical applications (Weeks 8 through 14)
+## PART 3: Philosophical applications (Weeks 8 through 14)
 
-#### March 1 - Evidence assessement and legal argumentation 
+### March 1 - Evidence assessement and legal argumentation 
 
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
@@ -211,13 +211,13 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
         - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
         - Di Bello and Urbaniak, Legal Probabilism
     
-#### March 8 - TBA
+### March 8 - TBA
 
-#### March 15 - TBA
+### March 15 - TBA
 
-#### March 22 - TBA
+### March 22 - TBA
 
-#### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
+### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
 Preparatory readings:
 
@@ -233,7 +233,7 @@ Extra readings:
    
 - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
 
-#### April 5 - Guest speaker: [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
+### April 5 - Guest speaker: [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
 
 Preparatory readings:
 
@@ -243,7 +243,7 @@ Preparatory readings:
 
 - [Causality background](https://fairmlbook.org/causal.html)
 
-#### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
 
 Preparatory readings:
 
@@ -251,7 +251,7 @@ Preparatory readings:
 
 - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
    
-#### April 19 - Voting
+### April 19 - Voting
 
    - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
     
