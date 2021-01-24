@@ -238,9 +238,17 @@ Preparatory readings:
 
 - Dardashti and Hartmann, [Assessing Scientific Theories: The Bayesian Approach](http://www.stephanhartmann.org/wp-content/uploads/2019/04/DardashtiHartmann_Assessing.pdf)
 
-##### April 5 - [Jonathan Herington](https://jherington.com/)
+##### April 5 - [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
 
-##### April 12
+Preparatory readings:
+
+- Richard Scheines, [An Introduction to Causal Inference](https://www.cmu.edu/dietrich/philosophy/docs/scheines/introtocausalinference.pdf)
+
+##### April 12 - [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+
+Preparatory readings:
+
+- Jan Sprenger, [Foundations of a Probabilistic Theory of Causal Strength](http://philsci-archive.pitt.edu/14108/)
 
 ##### April 19
 
