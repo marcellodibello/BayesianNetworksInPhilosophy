@@ -215,7 +215,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
     
 ### March 8 - TBA
 
-### March 15 - TBA
+### March 15 - Guest Speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
 
 ### March 22 - TBA
 
