@@ -217,7 +217,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 ### March 15 - Guest Speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
 
-### March 22 - TBA
+### March 22 - Guest soeaker: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
 
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
