@@ -56,7 +56,7 @@ Your final grade will be the weighted average of the letter grades you received 
  
 ### January 18 - MLK day - no class
  
-### January 25 
+### January 25 and February 1
 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
 
@@ -100,7 +100,7 @@ Your final grade will be the weighted average of the letter grades you received 
    * [Everything You Ever Wanted to Know About Bayes' Theorem But Were Afraid To Ask](https://www.youtube.com/watch?v=BcvLAw-JRss)
    * Summary of key definitions in Chapter 1, sections 1.3 and 1.4 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
 
-### February 1 
+### February 8
 
 (most videos below are by [John Tsitsiklis](https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en) from MIT)
 
@@ -130,9 +130,9 @@ Your final grade will be the weighted average of the letter grades you received 
    - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
-## PART 2: Bayesian networks (weeks 5 through 7)
+## PART 2: Bayesian networks (weeks 5 through 8)
 
-### February 8
+### February 15
 
 #### Basic idea
    - [Simple introduction to Bayesian Networks with the classic ‘Asia’ model](https://www.youtube.com/watch?v=v00gk1_DI9M)
@@ -148,7 +148,8 @@ Your final grade will be the weighted average of the letter grades you received 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
 
-### February 15
+
+### February 22
           
 #### More in depth 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
@@ -181,8 +182,7 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
         - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
         - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
-
-### February 22
+### March 1 
 
 #### Bayesian network software
    - [Hugin](https://www.hugin.com/index.php/hugin-lite/) -- free version with limited functionality, needs Java, runs on PC, Linux and Mac
@@ -199,9 +199,9 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
-## PART 3: Philosophical applications (Weeks 8 through 14)
+## PART 3: Philosophical applications (Weeks 9 through 14)
 
-### March 1 - Evidence assessement and legal argumentation 
+### March 8 - Evidence assessement and legal argumentation 
 
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
@@ -212,14 +212,14 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
       - Backgroung readings
         - Pennington and Hastie, [The Story Model for Juror Decision-making](http://www.pages.drexel.edu/~shs62/cj243/juryreadings/Pennington-Story%20Model.PDF) 
         - Di Bello and Urbaniak, Legal Probabilism
-    
-### March 8 - TBA
 
-### March 15 - Guest Speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
+### March 15 - Guest speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
 
-### March 22 - Guest soeaker: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
+### March 22 - Guest speakers: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
 
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
+
+**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:30 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
 
 Preparatory readings:
 
@@ -236,6 +236,8 @@ Extra readings:
 - Hartman, [Theory reduction](http://www.stephanhartmann.org/wp-content/uploads/2016/01/Aberdeen_2.pdf)
 
 ### April 5 - Guest speaker: [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
+
+**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:30 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.
 
 Preparatory readings:
 
