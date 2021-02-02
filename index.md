@@ -219,7 +219,7 @@ Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/
 
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
-**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:30 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
+**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
 
 Preparatory readings:
 
@@ -237,8 +237,6 @@ Extra readings:
 
 ### April 5 - Guest speaker: [Jonathan Herington](https://jherington.com/), Causal Models and Algorithmic Fairness
 
-**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:30 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.
-
 Preparatory readings:
 
 - Richard Scheines, [An Introduction to Causal Inference](https://www.cmu.edu/dietrich/philosophy/docs/scheines/introtocausalinference.pdf)
@@ -248,6 +246,8 @@ Preparatory readings:
 - [Causality background](https://fairmlbook.org/causal.html)
 
 ### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+
+**Note the change of time: the talk by Jan Sprenger starts at 10 AM (AZ time) and will end at 11:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.
 
 Preparatory readings:
 
