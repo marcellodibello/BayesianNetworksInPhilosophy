@@ -48,7 +48,7 @@ Your final grade will be the weighted average of the letter grades you received 
 
 # Course topics and schedule
 
-## PART 1: Probability theory refresher (weeks 1 through 4)
+## PART 1: Probability theory refresher 
 
 ### January 11 - Introduction
 
@@ -130,7 +130,7 @@ Your final grade will be the weighted average of the letter grades you received 
    - Summary of key defintions in Chapter 2, sections 2.1, 2.2, 2.4 and 2.5 [here](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/MITRES_6_012S18_Textbook.pdf)
     
 
-## PART 2: Bayesian networks (weeks 5 through 8)
+## PART 2: Bayesian networks 
 
 ### February 15
 
@@ -199,7 +199,7 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
 
-## PART 3: Philosophical applications (Weeks 9 through 14)
+## PART 3: Philosophical applications 
 
 ### March 8 - Evidence assessement and legal argumentation 
 
