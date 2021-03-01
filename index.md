@@ -140,16 +140,15 @@ Your final grade will be the weighted average of the letter grades you received 
         - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
         - The key message is that Bayesian networks are compact representations of joint probability distributions 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
-    - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+   - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
         - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
         - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
         
-   
 ### February 22
           
 
-### Counfounding and Simpon's Paradox     
+#### Counfounding and Simpon's Paradox     
   - Judea Pearl's works: 
        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
