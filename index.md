@@ -140,17 +140,24 @@ Your final grade will be the weighted average of the letter grades you received 
         - Videos above are by [Norman Fenton](http://probabilityandlaw.blogspot.com/) from Queen Mary University of London
         - The key message is that Bayesian networks are compact representations of joint probability distributions 
         - Bayesian networks consist of (i) a graphical part (called Directed Acyclic Graph, DAG) and probability assignments (called Conditional Probability Tables, CPTs).
+    - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+        - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
+
         
-#### Simpson's Paradox
-   - Judea Pearl's works: 
-       - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
+   
+### February 22
+          
+
+### Counfounding and Simpon's Paradox     
+  - Judea Pearl's works: 
        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
        - [Causal Inference in Statistics (with Glymour and Jewell](http://bayes.cs.ucla.edu/PRIMER/)        
+       - [Simpson'paradox](http://bayes.cs.ucla.edu/jp_home.html)
 
+### March 1 
 
-### February 22
-          
 #### More in depth 
 (videos below are by [Adnan Darwiche](https://scholar.google.com/citations?user=NzyvbZoAAAAJ&hl=en) from UCLA)
   - [Bayesian Networks: Syntax and Semantics](https://www.youtube.com/watch?v=dkjZuRBkwg8&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=5)
@@ -173,16 +180,8 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
        - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
    - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
         - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)     
-     
-#### Related topics      
-   - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
-        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
-        - Introduction to neural networks (as opposed to Bayesian networks) 
-   - [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
-        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
-        - A naive Bayesian classifier is a Bayesian network with a particular structure as explained in section 1, figure 1 of this [paper](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)  
 
-### March 1 
+
 
 #### Bayesian network software
    - [Hugin](https://www.hugin.com/index.php/hugin-lite/) -- free version with limited functionality, needs Java, runs on PC, Linux and Mac
@@ -198,6 +197,11 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
    - [Large](https://www.bnlearn.com/bnrepository/discrete-large.html)(50-100 nodes) 
    - [Very Large](https://www.bnlearn.com/bnrepository/discrete-verylarge.html)(100-1000 nodes)
    - [Massive](https://www.bnlearn.com/bnrepository/discrete-massive.html) (more than 1000 nodes)
+
+#### Related topics      
+   - [Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+        - Explanation by [Josh Starmer](https://twitter.com/joshuastarmer?lang=en) from [StatQuest](https://statquest.org/studyguides/)
+        - Introduction to neural networks (as opposed to Bayesian networks) 
 
 ## PART 3: Philosophical applications 
 
