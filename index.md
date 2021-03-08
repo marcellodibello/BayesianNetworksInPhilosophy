@@ -148,7 +148,7 @@ Your final grade will be the weighted average of the letter grades you received 
 ### February 22
           
 
-#### Counfounding and Simpon's Paradox     
+#### Confounding and Simpon's Paradox     
   - Judea Pearl's works: 
        - [The book of why, Chapters 4 and 6](http://bayes.cs.ucla.edu/WHY/) 
        - [Video](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
@@ -162,7 +162,7 @@ Your final grade will be the weighted average of the letter grades you received 
   - [Bayesian Networks: Syntax and Semantics](https://www.youtube.com/watch?v=dkjZuRBkwg8&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=5)
   - [Bayesian Networks: Independence and d-Separation](https://www.youtube.com/watch?v=oHfkTtcD5Ro&list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx&index=6)
 
-The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reasoning with Bayesian networks*. 
+The videos above are based on Chapter 4 of Darwiche's book, *Modeling and Reasoning with Bayesian Networks*. 
 
 #### Other introductions to Bayesian networks 
    - [Bayesian Networks](https://www.youtube.com/watch?v=480a_2jRdK0)
@@ -179,7 +179,6 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
        - Introduction (slides) by [Marco Scutari](https://scholar.google.com/citations?user=aDR3mgIAAAAJ&hl=en) from Istituto Dalle Molle di Studi sull'Intelligenza Artificiale 
    - [Artificial Intelligence with Bayesian Networks](https://www.youtube.com/watch?v=F34tkpJIg7w)
         - Talk (video) by Dr. Lionel Jouffe from [Bayesia](https://www.bayesia.com/)     
-
 
 
 #### Bayesian network software
@@ -209,7 +208,7 @@ The videos above are based on Chapter 4 of Darwiche's book, *Modeling and reason
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks in Philosophy](https://sas-space.sas.ac.uk/1074/1/S_Hartmann_Networks.pdf)
   - Luc Bovens and Stephan Hartmann, [Bayesian Networks and the Problem of Unreliable Instruments](https://core.ac.uk/download/pdf/72823.pdf)
   - Norman Fenton, Martin Neil and David A. Lagnado, [A General Structure for Legal Arguments About Evidence
-Using Bayesian Networks](https://www.ucl.ac.uk/lagnado-lab/publications/lagnado/legal_arguments.pdf)
+Using Bayesian Networks](http://www.eecs.qmul.ac.uk/~norman/papers/legal_arguments_for_web.pdf)
       - The paper argues for using Bayesian Networks as a framework to model legal arguments. The paper describes 
       a method for building useful legal arguments by means of Bayesisn Networks in a consistent and repeatable way. 
       - Backgroung readings
