@@ -217,6 +217,17 @@ Using Bayesian Networks](http://www.eecs.qmul.ac.uk/~norman/papers/legal_argumen
 
 ### March 15 - Guest speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
 
+This lecture is about the problem of bare statistical evidence (e.g. Martin Smith 2017) as an objection to the claim put foard by legal probabilists that thresholds of legal proof can be represented by thresholds of evidential probability. Cases of bare statistical evidence should be understood as instances of Hidden Causal Markov Models. Once we understand them as such, it becomes clear that bare statistical evidence in general does not justify an assignment of probability above the relevant thresholds (or if justifies it, then legal proof is established). In this way, legal probabilist can avoid the problem of bare statistical evidence.  
+
+Preparatory readings:
+
+- Martin Smith, [When Does Evidence Suffice For Conviction?](https://academic.oup.com/mind/article/127/508/1193/4555414)
+- JM Jouce, [How Probabilities Reflect Evidence](https://www.semanticscholar.org/paper/HOW-PROBABILITIES-REFLECT-EVIDENCE-Joyce/6a7e396bf24e21200bb15e9593dcc2f86a05c2e4)
+- Vlek et al, [A method for explaining Bayesian networks for legal evidence with scenarios](https://link.springer.com/content/pdf/10.1007%2Fs10506-016-9183-4.pdf)
+- [Hidden Markov MOdels](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+
+
+
 ### March 22 - Guest speakers: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
 
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
