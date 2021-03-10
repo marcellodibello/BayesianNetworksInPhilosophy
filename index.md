@@ -222,10 +222,9 @@ This lecture is about the problem of bare statistical evidence (e.g. Smith 2017 
 Preparatory readings:
 
 - Martin Smith, [When Does Evidence Suffice For Conviction?](https://academic.oup.com/mind/article/127/508/1193/4555414)
-- JM Jouce, [How Probabilities Reflect Evidence](https://www.semanticscholar.org/paper/HOW-PROBABILITIES-REFLECT-EVIDENCE-Joyce/6a7e396bf24e21200bb15e9593dcc2f86a05c2e4)
+- JM Joyce, [How Probabilities Reflect Evidence](https://www.semanticscholar.org/paper/HOW-PROBABILITIES-REFLECT-EVIDENCE-Joyce/6a7e396bf24e21200bb15e9593dcc2f86a05c2e4)
 - Vlek et al, [A method for explaining Bayesian networks for legal evidence with scenarios](https://link.springer.com/content/pdf/10.1007%2Fs10506-016-9183-4.pdf)
-- [Hidden Markov MOdels](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
-
+- [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 
 ### March 22 - Guest speakers: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
