@@ -217,7 +217,7 @@ Using Bayesian Networks](http://www.eecs.qmul.ac.uk/~norman/papers/legal_argumen
 
 ### March 15 - Guest speaker: [Chad Lee-Stronach](https://philpeople.org/profiles/chad-lee-stronach), Statistical Evidence and Hidden Markov Models
 
-This lecture is about the problem of bare statistical evidence (e.g. Smith 2017 below) as an objection to the claim put forward by legal probabilists that thresholds of legal proof can be represented by thresholds of evidential probability. Cases of bare statistical evidence should be understood as instances of Hidden Causal Markov Models. Once we understand them as such, it becomes clear that bare statistical evidence in general does not justify an assignment of probability above the relevant thresholds (or if justifies it, then legal proof is established). In this way, legal probabilist can avoid the problem of bare statistical evidence.  
+This lecture is about the problem of bare statistical evidence (e.g. Smith 2017 below) as an objection to the claim put forward by legal probabilists that thresholds of legal proof can be represented by thresholds of evidential probability. Cases of bare statistical evidence should be understood as instances of Hidden Causal Markov Models. Once we understand them as such, it becomes clear that bare statistical evidence in general does not justify an assignment of probability above the relevant thresholds (or if it justifies it, then legal proof is established). In this way, legal probabilist can avoid the problem of bare statistical evidence.  
 
 Preparatory readings:
 
