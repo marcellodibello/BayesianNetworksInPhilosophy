@@ -229,6 +229,12 @@ Preparatory readings:
 
 ### March 22 - Guest speakers: [Alicja Kowalewska](https://www.cmu.edu/dietrich/philosophy/people/phd/alicja-kowalewska.html) and [Rafal Urbaniak](https://scholar.google.com/citations?user=LOtWV_0AAAAJ&hl=en), Coherence and Bayesian Networks
 
+Preparatory readings:
+
+- [Probabilistic Measures of Coherence](https://plato.stanford.edu/entries/justep-coherence/?fbclid=IwAR2NCF7UkzzN8h6S0rLUneVGneRnBgXlNMrSzrqCyk_25D23c5_O-yqVDqk#ProMeaCoh)
+- Koscholke, [Evaluating Test Cases for Probabilistic Measures of Coherence](https://link.springer.com/article/10.1007/s10670-015-9734-1)
+ 
+
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
 **Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
