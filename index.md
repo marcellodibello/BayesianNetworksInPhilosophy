@@ -241,7 +241,7 @@ Preparatory readings:
 
 Preparatory readings:
 
-- Dawid, Hartmann and Sprenger, [The No Alternatives Argument](https://academic.oup.com/bjps/article-abstract/66/1/213/1530635?redirectedFrom=PDF)
+- Dawid, Hartmann and Sprenger, [The No Alternatives Argument](http://philsci-archive.pitt.edu/9588/)
 
 - Hartmann, [Bayes Nets and Rationality](http://philsci-archive.pitt.edu/16937/)
 
