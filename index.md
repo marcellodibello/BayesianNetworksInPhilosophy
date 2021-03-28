@@ -237,7 +237,7 @@ Preparatory readings:
 
 ### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
 
-**Note the change of time: the talk by Stephan Hartman starts at 10 AM (AZ time) and will end at 11:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
+**Note the change of time: the talk by Stephan Hartman starts at 9 AM (AZ time) and will end at 10:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
 
 Preparatory readings:
 
