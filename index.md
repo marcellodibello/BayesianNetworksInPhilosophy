@@ -235,7 +235,7 @@ Preparatory readings:
 - Koscholke, [Evaluating Test Cases for Probabilistic Measures of Coherence](https://link.springer.com/article/10.1007/s10670-015-9734-1)
  
 
-### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science
+### Mach 29 - Guest speaker: [Stephan Hartmann](http://www.stephanhartmann.org/), Bayesian Networks in Philosophy of Science [[Slides]](\Hartmann-March29-21.pdf)
 
 **Note the change of time: the talk by Stephan Hartman starts at 9 AM (AZ time) and will end at 10:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.  
 
