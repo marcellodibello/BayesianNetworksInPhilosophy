@@ -263,7 +263,7 @@ Preparatory readings:
 
 - [Causality background](https://fairmlbook.org/causal.html)
 
-### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), Probabilistic Theory fo Causal Strength
+### April 12 - Guest speaker: [Jan Sprenger](http://www.laeuferpaar.de/), A Probabilistic Theory of Causal Strength
 
 **Note the change of time: the talk by Jan Sprenger starts at 10 AM (AZ time) and will end at 11:15 AM. Class will reconvene at 3PM and end at 4PM for a discussion among ourselves about the talk**.
 
