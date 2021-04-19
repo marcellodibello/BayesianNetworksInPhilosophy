@@ -273,7 +273,7 @@ Preparatory readings:
 
 - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
    
-### April 19 - Fonal business
+### April 19 - Final business
 
 - Student presentations
 
