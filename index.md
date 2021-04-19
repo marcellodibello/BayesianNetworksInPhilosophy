@@ -273,9 +273,14 @@ Preparatory readings:
 
 - [Causality and manipulation](https://plato.stanford.edu/entries/causation-mani/)
    
-### April 19 - Voting
+### April 19 - Fonal business
 
-   - [Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
+- Student presentations
+
+- [RootClaim](https://www.rootclaim.com/)
+
+- Other topics: One topic we did not cover for lack of time was the application of Bayesian network to political philosophy. See for rexample this paper by 
+[Luc Bovens](https://philpeople.org/profiles/luc-bovens) and Claus Beisbart, [Measuring voting power for dependent voters through causal models](https://www.researchgate.net/publication/225126745_Measuring_voting_power_for_dependent_voters_through_causal_models)
     
 
 ## Syllabus Disclaimer
